@@ -1,7 +1,7 @@
 {
   "devices": [
     {
-      "id": "dd95a3bfd8ba4b6b",
+      "id": "dd95a3bfd8ba4",
       "name": "Owner Device",
       "expiry": "9999-12-31"
     },
@@ -9,6 +9,11 @@
       "id": "xyz789uvw012", 
       "name": "User 1",
       "expiry": "2025-12-31"
-    }
+    },
+      {
+      "id": "dd95a3bfd8ba4b6b",
+      "name": "Owner",
+      "expiry": "9999-12-31"
+    },
   ]
 }
