@@ -1,4 +1,4 @@
-{
+{n       b
   "devices": [
     {
       "id": "5be802ea187293d2",
@@ -7,7 +7,7 @@
       "plan": "premium"
     },
     {
-      "id": "a852df491430e91e",
+      "id": "e86124d1bd00c91c",
       "name": "Free User",
       "expiry": "2026-12-31",
       "plan": "premium"
