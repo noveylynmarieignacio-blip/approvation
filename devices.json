@@ -11,6 +11,12 @@
       "name": "Free User",
       "expiry": "2026-12-31",
       "plan": "free"
+    },
+        {
+      "id": "9f9912b6dfe5f032",
+      "name": "ed",
+      "expiry": "2026-6-8",
+      "plan": "premium"
     }
   ]
 }
