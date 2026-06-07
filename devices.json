@@ -1,6 +1,12 @@
 {
   "devices": [
     {
+      "id": "0c84214542bc7b48",
+      "name": "elmer",
+      "expiry": "2027-6-31",
+      "plan": "premium"
+    },
+    {
       "id": "8972ce60044cec70",
       "name": "Owner",
       "expiry": "9999-12-31",
@@ -283,8 +289,8 @@
       "plan": "free"
     },
     {
-      "id": "",
-      "name": "Free User",
+      "id": "0c84214542bc7b48",
+      "name": "",
       "expiry": "2026-6-31",
       "plan": "free"
     },
@@ -318,11 +324,6 @@
       "expiry": "2026-6-31",
       "plan": "free"
     },
-    {
-      "id": "",
-      "name": "Free User",
-      "expiry": "2026-6-31",
-      "plan": "free"
-    },
+    
   ]
 }
